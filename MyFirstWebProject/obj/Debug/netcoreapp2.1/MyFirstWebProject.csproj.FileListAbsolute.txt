@@ -1,0 +1,14 @@
+C:\Users\iroprish\source\repos\MyFirstWebProject\MyFirstWebProject\bin\Debug\netcoreapp2.1\MyFirstWebProject.deps.json
+C:\Users\iroprish\source\repos\MyFirstWebProject\MyFirstWebProject\bin\Debug\netcoreapp2.1\MyFirstWebProject.runtimeconfig.json
+C:\Users\iroprish\source\repos\MyFirstWebProject\MyFirstWebProject\bin\Debug\netcoreapp2.1\MyFirstWebProject.runtimeconfig.dev.json
+C:\Users\iroprish\source\repos\MyFirstWebProject\MyFirstWebProject\bin\Debug\netcoreapp2.1\MyFirstWebProject.dll
+C:\Users\iroprish\source\repos\MyFirstWebProject\MyFirstWebProject\bin\Debug\netcoreapp2.1\MyFirstWebProject.pdb
+C:\Users\iroprish\source\repos\MyFirstWebProject\MyFirstWebProject\obj\Debug\netcoreapp2.1\MyFirstWebProject.csprojAssemblyReference.cache
+C:\Users\iroprish\source\repos\MyFirstWebProject\MyFirstWebProject\obj\Debug\netcoreapp2.1\MyFirstWebProject.csproj.CoreCompileInputs.cache
+C:\Users\iroprish\source\repos\MyFirstWebProject\MyFirstWebProject\obj\Debug\netcoreapp2.1\MyFirstWebProject.RazorAssemblyInfo.cache
+C:\Users\iroprish\source\repos\MyFirstWebProject\MyFirstWebProject\obj\Debug\netcoreapp2.1\MyFirstWebProject.RazorAssemblyInfo.cs
+C:\Users\iroprish\source\repos\MyFirstWebProject\MyFirstWebProject\obj\Debug\netcoreapp2.1\MyFirstWebProject.AssemblyInfoInputs.cache
+C:\Users\iroprish\source\repos\MyFirstWebProject\MyFirstWebProject\obj\Debug\netcoreapp2.1\MyFirstWebProject.AssemblyInfo.cs
+C:\Users\iroprish\source\repos\MyFirstWebProject\MyFirstWebProject\obj\Debug\netcoreapp2.1\MyFirstWebProject.RazorTargetAssemblyInfo.cache
+C:\Users\iroprish\source\repos\MyFirstWebProject\MyFirstWebProject\obj\Debug\netcoreapp2.1\MyFirstWebProject.dll
+C:\Users\iroprish\source\repos\MyFirstWebProject\MyFirstWebProject\obj\Debug\netcoreapp2.1\MyFirstWebProject.pdb
